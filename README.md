@@ -1,23 +1,22 @@
 # Genetic algoritms
 
-- the source directory contains:
-	- each homework
-	- R statistics measurements
-	- outputs directory
+The source code contains:
+- each homework
+- R statistics measurements
+- outputs directory
 
-## H1 - Hill Climbing algorithm
+## H1 - Hill Climbing Algorithm
 
 - Best improvement
 - First improvement
 - Worst improvement
 - Simulated Annealing
 
-## H2 - genetic algorithm
+## H2 - Genetic Algorithm
 
-- selection
-- cross-over
-- mutation
-
-- etilitism
-- stagnation halting condition
-- meta-ga
+- Selection
+- Cross-over
+- Mutation
+- Etilitism
+- Stagnation halting condition
+- Meta genetic algorithm
